@@ -119,10 +119,73 @@ they **play**
 
 The only word that changes is adding a "s" or "es" at the end for the third singular form. Much simpler.
 
-
 La única palabra que cambia es agregar una "s" o "es" al final de la tercera forma singular. Mucho más sencillo.
 
 ## Lesson 04 - Lección 04
+
+Past simple tense for regular verbs.  
+Conjugación - pasado (Preterite) por verbos regulares.  
+
+Spanish is very complicated:  
+El español es muy complicado:
+
+yo **jugué**  
+tú **jugaste**  
+él, ella, Usted **jugó**  
+nosotros, nosotras **jugamos**  
+vosotros, vosotras **jugasteis**  
+ellos, ellas, Ustedes **jugaron**  
+
+English is very simple:  
+El inglés es muy simple:  
+
+I **played**  
+you, You **played**  
+he, she, it **played**  
+we **played**  
+you **played**  
+they **played**  
+
+The only change is adding a "d" or "ed" at the end of the word. Much simpler.
+
+El único cambio es agregar una "d" o "ed" al final de la palabra. Mucho más sencillo.
+
+## Lesson 05 - Lección 05
+
+Future tense for regular verbs.  
+Conjugación - futuro por verbos regulares.  
+
+Spanish is very complicated:  
+El español es muy complicado:
+
+yo **jugaré**  
+tú **jugarás**  
+él, ella, Usted **jugará**  
+nosotros, nosotras **jugaremos**  
+vosotros, vosotras **jugaréis**  
+ellos, ellas, Ustedes **jugarán**  
+
+English is very simple:  
+El inglés es muy simple:  
+
+I **will play**  
+you, You **will play**  
+he, she, it **will play**  
+we **will play**  
+you **will play**  
+they **will play**  
+
+The only change is adding "will" in front of the word. Much simpler.
+
+El único cambio es agregar "will" delante de la palabra. Mucho más sencillo.
+
+## More infrmation - Más información
+
+There exist more tesnse in the English language, but not even close as how complicated is the Spanish language. For now these 3 tense are just enough to speak everything you need for basic English communication. It is not perfect, but it is simple. And later you will learn more.
+
+Existe más tensión en el idioma inglés, pero ni siquiera cerca de lo complicado que es el idioma español. Por ahora, estos 3 tiempos son suficientes para hablar todo lo que necesitas para una comunicación básica en inglés. No es perfecto, pero es simple. Y más adelante aprenderás más.
+
+## Lesson 06 - Lección 06
 
 Present simple tense for the helper verb "to be".  
 Conjugación del verbo auxiliar "ser" - presente.  
@@ -151,14 +214,15 @@ we **are**
 you **are**  
 they **are**  
 
-Interesting differences: 
+Interesting differences:
  
 - English has only 3 forms of the word: "am", "are", "is", but Spanish has 6 forms of the word "soy", "eres", "es", "somos", "sois", "son"
+- Both Spanish verbs "ser" and "estar" are translated in one English verb "to be". Much simpler.
 
-Diferencias interesantes: 
+Diferencias interesantes:
 
 - El inglés tiene sólo 3 formas de la palabra: "am", "are", "is", pero el español tiene 6 formas de la palabra "soy", "eres", "es", "somos", "sois", "son"
-
+- Ambos verbos españoles "ser" y "estar" se traducen en un verbo inglés "to be". Mucho más sencillo.
 
 
 
