@@ -229,10 +229,10 @@ Diferencias interesantes:
 
 ## TODO
 
-irregular verb "to have" haber/tener
-articles the and a/an.
-common phrases
-pronunciation
+irregular verb "to have" haber/tener  
+articles the and a/an.  
+common phrases  
+pronunciation  
 
 
 ## Open-source and free as a beer
