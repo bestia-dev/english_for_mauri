@@ -95,7 +95,7 @@ Diferencias interesantes:
 ## Lesson 03 - Lección 03
 
 Present simple tense for regular verbs.  
-Conjugación - presente por verbos regulares.  
+Conjugación - tiempo presente por verbos regulares.  
 
 Spanish is very complicated:  
 El español es muy complicado:
@@ -124,7 +124,7 @@ La única palabra que cambia es agregar una "s" o "es" al final de la tercera fo
 ## Lesson 04 - Lección 04
 
 Past simple tense for regular verbs.  
-Conjugación - pasado (Preterite) por verbos regulares.  
+Conjugación - tiempo pasado (Preterite) por verbos regulares.  
 
 Spanish is very complicated:  
 El español es muy complicado:
@@ -153,7 +153,7 @@ El único cambio es agregar una "d" o "ed" al final de la palabra. Mucho más se
 ## Lesson 05 - Lección 05
 
 Future tense for regular verbs.  
-Conjugación - futuro por verbos regulares.  
+Conjugación - tiempo futuro por verbos regulares.  
 
 Spanish is very complicated:  
 El español es muy complicado:
@@ -183,12 +183,12 @@ El único cambio es agregar "will" delante de la palabra. Mucho más sencillo.
 
 There exist more tesnse in the English language, but not even close as how complicated is the Spanish language. For now these 3 tense are just enough to speak everything you need for basic English communication. It is not perfect, but it is simple. And later you will learn more.
 
-Existe más tensión en el idioma inglés, pero ni siquiera cerca de lo complicado que es el idioma español. Por ahora, estos 3 tiempos son suficientes para hablar todo lo que necesitas para una comunicación básica en inglés. No es perfecto, pero es simple. Y más adelante aprenderás más.
+Existen más tiempos en el idioma inglés, pero ni siquiera cerca de lo complicado que es el idioma español. Por ahora, estos 3 tiempos son suficientes para hablar todo lo que necesitas para una comunicación básica en inglés. No es perfecto, pero es simple. Y más adelante aprenderás más.
 
 ## Lesson 06 - Lección 06
 
 Present simple tense for the helper verb "to be".  
-Conjugación del verbo auxiliar "ser" - presente.  
+Conjugación del verbo auxiliar "ser" - tiempo presente.  
 
 This is the most important word. You use it all the time. Because of this, it is also an irregular verb and you just have to learn it by heart.
 
