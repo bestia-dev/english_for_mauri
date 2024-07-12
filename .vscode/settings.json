@@ -1,0 +1,50 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeForeground": "#fff",
+        "titleBar.inactiveForeground": "#ffffffcc",
+        "titleBar.activeBackground": "#404040",
+        "titleBar.inactiveBackground": "#2d2d2dcc"
+    },
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "files.associations": {
+        "LICENSE": "plain text"
+    },
+    "rust-analyzer.showUnlinkedFileNotification": false,
+    "cSpell.words": [
+        "'e",
+        "Alla",
+        "apos",
+        "bestia",
+        "bestiadev",
+        "crev",
+        "CRUSTDE",
+        "ddd'e",
+        "Eddd",
+        "endregion",
+        "fontawesome",
+        "htmlescape",
+        "mauri",
+        "Nazdravlje",
+        "onmouseover",
+        "Prost",
+        "replacen",
+        "rustlang",
+        "stmplt",
+        "struct",
+        "stylesheet",
+        "substack",
+        "tagname",
+        "thiserror",
+        "tmplt",
+        "wtmplt",
+        "zcvf",
+        "zdravje"
+    ]
+}
