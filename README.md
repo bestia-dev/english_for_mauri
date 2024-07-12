@@ -181,7 +181,7 @@ El único cambio es agregar "will" delante de la palabra. Mucho más sencillo.
 
 ## More infrmation - Más información
 
-There exist more tesnse in the English language, but not even close as how complicated is the Spanish language. For now these 3 tense are just enough to speak everything you need for basic English communication. It is not perfect, but it is simple. And later you will learn more.
+There exist more tenses in the English language, but not even close to how complicated is the Spanish language. For now, these 3 tenses are just enough to speak everything you need for basic English communication. It is not perfect, but it is simple. And later you will learn more.
 
 Existen más tiempos en el idioma inglés, pero ni siquiera cerca de lo complicado que es el idioma español. Por ahora, estos 3 tiempos son suficientes para hablar todo lo que necesitas para una comunicación básica en inglés. No es perfecto, pero es simple. Y más adelante aprenderás más.
 
@@ -215,7 +215,7 @@ you **are**
 they **are**  
 
 Interesting differences:
- 
+
 - English has only 3 forms of the word: "am", "are", "is", but Spanish has 6 forms of the word "soy", "eres", "es", "somos", "sois", "son"
 - Both Spanish verbs "ser" and "estar" are translated in one English verb "to be". Much simpler.
 
@@ -227,7 +227,12 @@ Diferencias interesantes:
 
 
 
+## TODO
 
+irregular verb "to have" haber/tener
+articles the and a/an.
+common phrases
+pronunciation
 
 
 ## Open-source and free as a beer
