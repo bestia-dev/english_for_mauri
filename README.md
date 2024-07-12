@@ -152,19 +152,11 @@ you **are**
 they **are**  
 
 Interesting differences: 
-
-- "Usted" and "Ustedes" does not exist in English. The only difference is that "you" is written "You". Much simpler.  
-- Feminine and masculine "nosotros" and "nosotras" is only one gender neutral "we".  
-- "Vosotros" and "vosotras" is simply just gender neutral "you". Yes, the same "you" for "tú". It looses even the plural form. 
-- "Ellos", "ellas" is gender neutral "they".  
-- English has only 3 forms of the word: "am", "are", "is", but spanish has 6 forms of the word "soy", "eres", "es", "somos", "sois", "son"
+ 
+- English has only 3 forms of the word: "am", "are", "is", but Spanish has 6 forms of the word "soy", "eres", "es", "somos", "sois", "son"
 
 Diferencias interesantes: 
 
-- "Usted" y "Ustedes" no existen en inglés. La única diferencia es que "you" se escribe "You". Mucho más sencillo.  
-- Femenino y masculino "nosotros" y "nosotras" es sólo "we" neutral en cuanto al género.  
-- "Vosotros" y "vosotras" es simplemente "you" neutral en cuanto al género. Sí, el mismo "you" por "tú". Pierde tambien la forma plural. 
-- "Ellos", "ellas" es "they" de género neutro.
 - El inglés tiene sólo 3 formas de la palabra: "am", "are", "is", pero el español tiene 6 formas de la palabra "soy", "eres", "es", "somos", "sois", "son"
 
 
